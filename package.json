@@ -1,0 +1,25 @@
+{
+  "name": "@xyz/use-api",
+  "version": "1.0.0",
+  "description": "Your package description",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tbd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xyzrepo/use-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xyzrepo/use-api/issues"
+  },
+  "homepage": "https://github.com/xyzrepo/use-api#readme",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "vue": "^3.0.0"
+  }
+}
