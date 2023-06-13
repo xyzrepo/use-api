@@ -1,4 +1,3 @@
-```markdown
 # @xyz/use-api
 
 `@xyz/use-api` is a robust Vue 3 composition function built for seamless API interactions using axios. It encapsulates the complexity of CRUD operations, offering an intuitive way to manage state and data from your APIs in Vue 3. A standout feature of this library is its inherent compatibility with Strapi 4, particularly its user authentication processes.
