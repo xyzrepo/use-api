@@ -1,7 +1,9 @@
+Certainly, here's an updated description for the README:
+
 ```markdown
 # @xyz/use-api
 
-A Vue 3 composition function for making API calls using axios (with built-in support for Strapi 4).
+`@xyz/use-api` is a robust Vue 3 composition function built for seamless API interactions using axios. It encapsulates the complexity of CRUD operations, offering an intuitive way to manage state and data from your APIs in Vue 3. A standout feature of this library is its inherent compatibility with Strapi 4, particularly its user authentication processes.
 
 ## Installation
 
@@ -47,6 +49,10 @@ const posts = api.createResource('posts');
 posts.get(1); // Get the post with id 1
 ```
 
+## Built-in Strapi 4 Auth Support
+
+`@xyz/use-api` provides built-in support for the Strapi 4 authentication functions. The `.auth` object provides methods for common authentication operations like login, logout, register, forgot password, reset password, and verify email.
+
 ## API
 
 ### useApi(baseURL: string)
@@ -90,4 +96,4 @@ Please see our [contributing guidelines](CONTRIBUTING.md).
 This project is licensed under the terms of the MIT license.
 ```
 
-This README assumes you have a contributing guide at `CONTRIBUTING.md`. If you don't, you should either create one or remove the "Contributing" section. Similarly, it states the project is licensed under the MIT license. If you're using a different license, update that section to reflect it.
+This updated README includes a more detailed description and a new section highlighting the built-in Strapi 4 authentication support. Adjust as necessary for your project's needs.
