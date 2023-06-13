@@ -91,6 +91,3 @@ Please see our [contributing guidelines](CONTRIBUTING.md).
 ## License
 
 This project is licensed under the terms of the MIT license.
-```
-
-This updated README includes a more detailed description and a new section highlighting the built-in Strapi 4 authentication support. Adjust as necessary for your project's needs.
