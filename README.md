@@ -1,5 +1,3 @@
-Certainly, here's an updated description for the README:
-
 ```markdown
 # @xyz/use-api
 
