@@ -1,3 +1,6 @@
-import useApi from './useApi';
+import { backend } from './api'
+export default backend
 
-export default useApi;
+// import useApi from './useApi';
+
+// export default useApi;
